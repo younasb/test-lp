@@ -25,9 +25,9 @@ We have recently signed a supplier of "Dafalgan". This requires an update to our
 
 ## Instructions
 
-- [ ] Create a branch in this repository
+- [ ] Create a fork from this repository
 - [ ] Implement the required feature
-- [ ] Push the branch when satisfied
+- [ ] Push the fork when satisfied
 - [ ] Send us the link and tell us approximatively how much time you spent on this assignment
 
 You are encouraged to refactor the existing code before adding your own, as you would do if this was a real task in real life. We strongly recommend that you write tests to help you during this process.
